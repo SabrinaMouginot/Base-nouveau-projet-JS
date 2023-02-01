@@ -38,3 +38,32 @@ Et j'ai pensé à utilisé les medias queries pour que ce margin-top s'adaptte e
     margin-top: 400px;
 }
 }
+
+
+/******************************************** FOOTER ********************************/
+
+.copyrightEtIcons {
+    display: flex;
+    margin-bottom: 20px;
+    padding: 0 10%;
+
+}
+.copyright {
+    width: 50%;
+    text-align: left;
+    color: #142787;
+}
+.icons {
+    width: 50%;
+    text-align: right;
+}
+.icons a {
+    display: inline-block;
+    padding: 0 35px;
+    font-size: 1.3em;
+    color: #142787;
+}
+.icons a:hover {
+    transform: scale(1.5);
+    transition: 0.1s;
+}
