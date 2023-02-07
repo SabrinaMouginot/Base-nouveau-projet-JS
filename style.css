@@ -1,8 +1,13 @@
+body {
+    font-family: 'Tangerine', serif, 'Itim';
+    font-size: 48px;
+    }
 
 .img-fluid{
     width: 90px;
     height: 90px;
 }
+
 
 /* Une partie était caché sous la barre de navigation en haut de page. 
 J'ai donc créé un margin en haut du document pour que l'ensemble puisse être vu. 
